@@ -1,0 +1,78 @@
+{
+  "slides": [
+    { "id": 1, "img_url": "1.png" },
+    { "id": 2, "img_url": "2.png" },
+    { "id": 3, "img_url": "3.png" }
+  ],
+  "announcement": "今日上架的图书全部8折",
+  "latestUpdated": [
+    {
+      "id": 1,
+      "title": "揭开数据真相：从小白到数据分析达人",
+      "authors": [ "Edward Zaccaro", "Daniel Zaccaro" ],
+      "img_url": "http://via.placeholder.com/100x150?text=1"
+    },
+    {
+      "id": 2,
+      "title": "Android高级进阶",
+      "authors": ["顾浩鑫"],
+      "img_url": "http://via.placeholder.com/100x150?text=2"
+    },
+    {
+      "id": 3,
+      "title": "淘宝天猫电商运营与数据化选品完全手册",
+      "authors": ["老夏"],
+      "img_url": "http://via.placeholder.com/100x150?text=3"
+    },
+    {
+      "id": 4,
+      "title": "大数据架构详解：从数据获取到深度学习",
+      "authors": ["朱洁", "罗华霖"],
+      "img_url": "http://via.placeholder.com/100x150?text=4"
+    },
+    {
+      "id": 5,
+      "title": "Meteor全栈开发",
+      "authors": ["杜亦舒"],
+      "img_url": "http://via.placeholder.com/100x150?text=5"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 1,
+      "title": "自己动手做大数据系统",
+      "authors": ["张粤磊"],
+      "img_url": "http://via.placeholder.com/100x150?text=1"
+    },
+    {
+      "id": 2,
+      "title": "智能硬件安全",
+      "authors": ["刘建皓"],
+      "img_url": "http://via.placeholder.com/100x150?text=2"
+    },
+    {
+      "id": 3,
+      "title": "实战数据库营销--大数据时代轻松赚钱之道（第2版）",
+      "authors": ["罗安林"],
+      "img_url": "http://via.placeholder.com/100x150?text=3"
+    },
+    {
+      "id": 4,
+      "title": "大数据思维--从掷骰子到纸牌屋",
+      "authors": ["马继华"],
+      "img_url": "http://via.placeholder.com/100x150?text=4"
+    },
+    {
+      "id": 5,
+      "title": "从零开始学数据营销",
+      "authors": ["韩布韦"],
+      "img_url": "http://via.placeholder.com/100x150?text=5"
+    },
+    {
+      "id": 6,
+      "title": "数据化营销",
+      "authors": ["龚正", "吴治辉", "王伟", "崔秀龙", "闫建勇"],
+      "img_url": "http://via.placeholder.com/100x150?text=6"
+    }
+  ]
+}
