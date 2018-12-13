@@ -14,7 +14,7 @@
     </div>
     <div class="section">
       <!-- 编辑推荐 -->
-      <book-list :books="recommended" :heading="'最新更新'" @onBookSelect="preview($event)"></book-list>
+      <book-list :books="recommended" :heading="'编辑推荐'" @onBookSelect="preview($event)"></book-list>
     </div>
     <modal-dialog ref="dialog" @dialogClose="selected=undefined" v-if="selected">
       <div slot="header">
