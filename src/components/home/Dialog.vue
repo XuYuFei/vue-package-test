@@ -32,7 +32,7 @@ export default {
       if (this.is_open) {
         this.$emit('dialogClose')
       }
-      this.is_open = true
+      this.is_open = false
     }
   }
 }

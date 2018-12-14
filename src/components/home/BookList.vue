@@ -1,7 +1,7 @@
 <template>
   <div class="book-list">
     <div class="header">
-      <div class="heading">最新更新</div>
+      <div class="heading">{{ heading }}</div>
       <div class="more">更多...</div>
     </div>
     <div class="book-item">
